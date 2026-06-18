@@ -94,3 +94,102 @@ Die weitere Nutzung des Bots gilt als Zustimmung zu den geänderten Bedingungen.
 Bei Fragen oder Datenanfragen kannst du dich an den Betreiber wenden:
 
 Discord: fokuskeks
+
+# Datenschutzerklärung für Avaro
+
+Letzte Aktualisierung: 18. Juni 2026
+
+Diese Datenschutzerklärung informiert darüber, welche Daten der Discord-Bot Avaro verarbeitet und wie diese genutzt werden.
+
+## 1. Verantwortlicher
+
+Verantwortlich für den Bot:
+
+Avaro Bot Betreiber
+Discord: fokuskeks
+
+## 2. Welche Daten verarbeitet werden
+
+Der Bot verarbeitet nur Daten, die für seine Funktionen erforderlich sind. Dazu können gehören:
+
+Automatisch bereitgestellte Discord-Daten
+Discord User ID
+Discord Server ID
+Channel IDs
+Rollen-Informationen (falls für Berechtigungen benötigt)
+Nutzungsbezogene Daten
+eingegebene Bot-Kommandos
+Inhalte von Nachrichten, nur soweit notwendig für die jeweilige Funktion
+Zeitstempel von Interaktionen
+FFXIV / externe Datenquellen (falls genutzt)
+öffentlich zugängliche Daten (z. B. FFLogs, Rankings, Charakterdaten)
+keine privaten Account-Zugänge
+
+## 3. Zweck der Datenverarbeitung
+
+Die Daten werden ausschließlich genutzt für:
+
+Bereitstellung der Bot-Funktionen
+Analyse und Auswertung von FFXIV-Spielstatistiken
+Server-spezifische Einstellungen
+Fehlerbehebung und Stabilität des Bots
+
+## 4. Speicherung der Daten
+
+Der Bot speichert nur Daten, die für den Betrieb notwendig sind:
+
+Server-Konfigurationen (z. B. Einstellungen pro Discord-Server)
+Nutzerbezogene Einstellungen (falls vorhanden)
+Zwischenergebnisse von Berechnungen oder Analysen
+
+Wichtig:
+
+Daten werden nicht unnötig langfristig gespeichert
+Daten werden nicht verkauft oder an Dritte weitergegeben
+
+## 5. Weitergabe von Daten
+
+Es erfolgt keine Weitergabe personenbezogener Daten an Dritte, außer:
+
+wenn externe APIs genutzt werden (z. B. FFLogs API), dann nur die dafür notwendigen Daten
+wenn gesetzlich dazu verpflichtet
+
+## 6. Speicherung und Löschung
+
+Server-Administratoren können jederzeit anfordern:
+
+Einsicht in gespeicherte Daten
+Löschung serverbezogener Daten
+
+Einfach über den Support-Kontakt melden.
+
+## 7. Cookies / Tracking
+
+Der Bot verwendet keine Cookies oder Browser-Tracking-Technologien.
+
+## 8. Sicherheit
+
+Es werden angemessene technische Maßnahmen eingesetzt, um Daten zu schützen.
+Ein vollständiger Schutz vor Angriffen kann jedoch nicht garantiert werden.
+
+## 9. Rechte der Nutzer (DSGVO)
+
+Nutzer haben das Recht auf:
+
+Auskunft über gespeicherte Daten
+Berichtigung falscher Daten
+Löschung ihrer Daten
+Einschränkung der Verarbeitung
+
+Anfragen können über den Kontakt gestellt werden.
+
+## 10. Änderungen
+
+Diese Datenschutzerklärung kann jederzeit aktualisiert werden.
+Die weitere Nutzung des Bots gilt als Zustimmung zur jeweils aktuellen Version.
+
+## 11. Kontakt
+
+Bei Fragen zum Datenschutz:
+
+Discord: fokuskeks
