@@ -6,7 +6,7 @@ Diese Nutzungsbedingungen gelten für den Discord-Bot Avaro („der Bot“), der
 
 Durch die Nutzung des Bots erklärst du dich mit diesen Bedingungen einverstanden.
 
-##1. Zweck des Bots
+## 1. Zweck des Bots
 
 Avaro ist ein Discord-Bot zur Unterstützung von Final Fantasy XIV-Spielern und Communities.
 Der Bot kann unter anderem folgende Funktionen bereitstellen:
