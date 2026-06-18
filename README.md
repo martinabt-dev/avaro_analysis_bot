@@ -90,9 +90,7 @@ Diese Nutzungsbedingungen können jederzeit aktualisiert werden.
 Die weitere Nutzung des Bots gilt als Zustimmung zu den geänderten Bedingungen.
 
 ##9. Kontakt
-Discord: fokuskeks
 
 Bei Fragen oder Datenanfragen kannst du dich an den Betreiber wenden:
 
-Discord: (dein Name / Server)
-E-Mail: (optional eintragen)
+Discord: fokuskeks
