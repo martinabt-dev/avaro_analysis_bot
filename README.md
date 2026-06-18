@@ -6,7 +6,7 @@ Diese Nutzungsbedingungen gelten für den Discord-Bot Avaro („der Bot“), der
 
 Durch die Nutzung des Bots erklärst du dich mit diesen Bedingungen einverstanden.
 
-1. Zweck des Bots
+##1. Zweck des Bots
 
 Avaro ist ein Discord-Bot zur Unterstützung von Final Fantasy XIV-Spielern und Communities.
 Der Bot kann unter anderem folgende Funktionen bereitstellen:
@@ -18,14 +18,15 @@ Discord-Integration für FFXIV-bezogene Inhalte
 
 Der Funktionsumfang kann jederzeit erweitert oder geändert werden.
 
-2. Nutzungsvoraussetzungen
+##2. Nutzungsvoraussetzungen
 
 Die Nutzung des Bots ist nur erlaubt, wenn:
 
 du die Discord-Nutzungsbedingungen einhältst
 du den Bot nicht missbrauchst oder versuchst zu stören
 du keine automatisierten Angriffe oder Spam ausführst
-3. Datenverarbeitung
+
+##3. Datenverarbeitung
 
 Avaro verarbeitet nur Daten, die für den Betrieb der Funktionen notwendig sind.
 
@@ -41,7 +42,8 @@ Wichtig:
 Es werden keine sensiblen persönlichen Daten bewusst gespeichert
 Daten werden nicht an Dritte verkauft
 Daten werden nur zur Bereitstellung der Bot-Funktionen genutzt
-4. Speicherung von Daten
+
+##4. Speicherung von Daten
 
 Der Bot kann temporär oder dauerhaft folgende Daten speichern:
 
@@ -51,7 +53,7 @@ Analyseergebnisse (z. B. Logs, Rankings)
 
 Serverbetreiber können jederzeit die Entfernung ihrer Daten anfragen.
 
-5. Verfügbarkeit
+##5. Verfügbarkeit
 
 Es besteht kein Anspruch auf:
 
@@ -61,7 +63,7 @@ bestimmte Features oder Updates
 
 Der Betrieb kann jederzeit ohne Vorankündigung geändert oder eingestellt werden.
 
-6. Haftung
+##6. Haftung
 
 Der Betreiber von Avaro übernimmt keine Haftung für:
 
@@ -72,7 +74,7 @@ Entscheidungen, die auf Basis der Bot-Ausgaben getroffen werden
 
 Die Nutzung erfolgt auf eigenes Risiko.
 
-7. Missbrauch
+##7. Missbrauch
 
 Es ist untersagt:
 
@@ -82,12 +84,13 @@ den Bot für unerlaubte oder illegale Zwecke zu verwenden
 
 Bei Missbrauch kann der Zugriff jederzeit gesperrt werden.
 
-8. Änderungen der Nutzungsbedingungen
+##8. Änderungen der Nutzungsbedingungen
 
 Diese Nutzungsbedingungen können jederzeit aktualisiert werden.
 Die weitere Nutzung des Bots gilt als Zustimmung zu den geänderten Bedingungen.
 
-9. Kontakt
+##9. Kontakt
+Discord: fokuskeks
 
 Bei Fragen oder Datenanfragen kannst du dich an den Betreiber wenden:
 
